@@ -1,0 +1,6 @@
+[submodule "lib/vendor/js-oo"]
+	path = lib/vendor/js-oo
+	url = git://github.com/visionmedia/js-oo.git
+[submodule "lib/vendor/restler"]
+	path = lib/vendor/restler
+	url = git://github.com/danwrong/restler.git
